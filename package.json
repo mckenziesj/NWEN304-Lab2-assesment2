@@ -1,0 +1,19 @@
+{
+  "name": "assessment2",
+  "version": "0.0.0",
+  "description": "trying again",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NWEN304",
+    "Lab2"
+  ],
+  "author": "sarahm",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
